@@ -28,8 +28,8 @@ I'm currently studying the following front-end technologies: HTML, CSS and JS. I
 <br>
 <h2>Social Media/ Contact</h2>
 <div>
-  <a href="https://www.linkedin.com/in/leonardo-geraldino-da-silva-011840134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="https://codepen.io/leogeraldino" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"/></a>
-  <a href="https://t.me/aeeeeKasinao" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/leonardo-geraldino-da-silva-011840134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://codepen.io/leogeraldino" ><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"/></a>
+  <a target="_blank" href="https://t.me/aeeeeKasinao" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/></a>
 </div>
 
