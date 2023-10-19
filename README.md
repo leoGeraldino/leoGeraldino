@@ -1,8 +1,7 @@
 <h1>Hello everybody! 👋</h1>
 <br>
-My name is Leonardo and I'm a brazilian software developer. I love technology in general and I'm currently pursuing a bachelor's degree in information technology at UNIVESP, a brazilian university.<br>
-I'm currently studying the following front-end technologies: HTML, CSS and JS. I'm loving Python too, more especifically, Django and Flask web frameworks. I also have knowledge in C and C++ languages, focused on embedded systems.<br>
-<br>
+My name is Leonardo and I'm a brazilian software developer. I love technology in general and I'm currently pursuing a bachelor's degree in Information Technology at UNIVESP, a brazilian university.<br>
+I'm currently studying the following front-end technologies: HTML, CSS and JS. I'm loving Python too, more especifically, Django and Flask web frameworks. I also have knowledge in C and C++ languages, focused on embedded systems.<hr>
 
 - 🔭 I’m currently working on myself, studying hard and working hard 💪 
 - 🌱 I’m currently learning front-end technologies and some of Python too 🐍
