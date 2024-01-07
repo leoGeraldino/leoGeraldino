@@ -1,12 +1,13 @@
 <h1>Hello everybody! 👋</h1>
 <br>
-My name is Leonardo and I'm a brazilian software developer. I love technology in general and I'm currently pursuing a bachelor's degree in Information Technology at UNIVESP, a brazilian university.<br>
-I'm currently studying the following front-end technologies: HTML, CSS and JS. I'm loving Python too, more especifically, Django and Flask web frameworks. I also have knowledge in C and C++ languages, focused on embedded systems.<hr>
+My name is Leonardo and I'm a brazilian software developer. I love technology in general and I'm currently pursuing a bachelor's degree in Information Technology at <a target ="_blank" 
+ href="https://univesp.br/">UNIVESP</a>, a brazilian university.<br>
+I'm currently studying the following front-end technologies: HTML, CSS and JS. I'm loving Python too, more especifically, Django and Flask web frameworks. A little bit of pygame too.<br> I also have knowledge in C and C++ languages, focused on embedded systems, and some of knowledge in Java<hr>
 
 - 🔭 I’m currently working on myself, studying hard and working hard 💪 
 - 🌱 I’m currently learning front-end technologies and some of Python too 🐍
 - 👯 I’m looking to collaborate on front-end projects
-- 📫 How to reach me: https://www.linkedin.com/in/leonardo-geraldino-da-silva-011840134/
+- 📫 How to reach me: https://www.linkedin.com/in/leonardogeraldinodasilva
 - ⚡ Fun fact: I love soccer ⚽ and calisthenics 🏋️‍♂️💪. Maybe I'll be a rockstar someday 🤟🎸
 
 <br>
@@ -27,8 +28,8 @@ I'm currently studying the following front-end technologies: HTML, CSS and JS. I
 <br>
 <h2>Social Media/ Contact</h2>
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/leonardo-geraldino-da-silva-011840134/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a target="_blank" href="https://codepen.io/leogeraldino" ><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"/></a>
-  <a target="_blank" href="https://t.me/aeeeeKasinao" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/leonardogeraldinodasilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://codepen.io/leogeraldino" ><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+  <a target="_blank" href="https://t.me/aeeeeKasinao" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
 
