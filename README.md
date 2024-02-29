@@ -2,11 +2,11 @@
 <br>
 My name is Leonardo and I'm a brazilian software developer. I love technology in general and I'm currently pursuing a bachelor's degree in Information Technology at <a target ="_blank" 
  href="https://univesp.br/">UNIVESP</a>, a brazilian university.<br>
-I'm currently studying the following front-end technologies: HTML, CSS and JS. I also love Python, more especifically, Django and Flask web frameworks and a little bit of pygame.<br> I also have knowledge in C and C++ languages, focused on embedded systems, and I have a basic knowledge in Java too.<hr>
+I'm currently studying the following front-end technologies: HTML, CSS and JS. I also love Python, more especifically, Django and Flask web frameworks and a little bit of pygame.<br> I have a basic knowledge in C and C++ languages, focused on embedded systems, and also a basic knowledge in Java.<hr>
 
 - 🔭 I’m currently working on myself, studying hard and working hard 💪 
 - 🌱 I’m currently learning front-end technologies and some of Python 🐍
-- 👯 I’m looking to collaborate on web projects
+- 👯 I’m looking to collaborate on fullstack projects
 - 📫 How to reach me: https://www.linkedin.com/in/leonardogeraldinodasilva
 - ⚡ Fun fact: I love soccer ⚽ and calisthenics 🏋️‍♂️💪. Maybe I'll be a rockstar someday 🤟🎸
 
