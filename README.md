@@ -7,7 +7,7 @@ I'm currently studying the following front-end technologies: HTML, CSS and JS. I
 - 🔭 I’m currently working on myself, studying hard and working hard 💪 
 - 🌱 I’m currently learning front-end technologies and some of Python 🐍
 - 👯 I’m looking to collaborate on fullstack projects
-- 📫 How to reach me: https://www.linkedin.com/in/leonardogeraldinodasilva
+- 📫 How to reach me: https://www.linkedin.com/in/leogeraldino
 - ⚡ Fun fact: I love soccer ⚽ and calisthenics 🏋️‍♂️💪. Maybe I'll be a rockstar someday 🤟🎸
 
 <br>
