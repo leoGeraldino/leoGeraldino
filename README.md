@@ -28,7 +28,7 @@ I'm currently studying the following front-end technologies: HTML, CSS and JS. I
 <br>
 <h2>Social Media/ Contact</h2>
 <div>
-  <a target="_blank" href="https://www.linkedin.com/in/leonardogeraldinodasilva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://www.linkedin.com/in/leogeraldino"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a target="_blank" href="https://codepen.io/leogeraldino" ><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
   <a target="_blank" href="https://t.me/aeeeeKasinao" ><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </div>
